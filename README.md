@@ -41,8 +41,9 @@
 ---
 
 ## 🖼️ Screenshots
-
-![Dashboard](./screenshots/dashboard.png)
-![Upload UI](./screenshots/upload.png)
+![Login](./screenshots/signIn.png)
+![Home Page](./screenshots/homePage.png)
+![Add File](./screenshots/addFile.png)
+![Add Folder](./screenshots/addFolder.png)
 
 ---
